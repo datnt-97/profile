@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="632 297 222 126">
+    <defs>
+        <style type="text/css">
+          @font-face {
+            font-family: VT323;
+            src: url('./font/VT323-Regular.ttf');
+          }
+        </style>
+    </defs>
+    <g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
+        <g class="logo__item__inner" transform="translate(759.078125 364.8809452466834) scale(1 1) rotate(0 0 0)">
+
+            <text data-part-id="logo__item--business" dy="0" dominant-baseline="auto" alignment-baseline="auto" font-family="VT323" font-size="32px" fill="#0081C3" letter-spacing="0" font-weight="normal" font-style="normal" data-font-family="VT323" data-font-weight="normal" data-font-style="normal" data-ttf-url="/builder_assets/fontsttf/font-montserrat-bold-normal.ttf" data-font-filename="vt323-normal-normal">dat_dev</text>
+        </g>
+    </g>
+  
+</svg>
